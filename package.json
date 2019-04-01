@@ -1,0 +1,23 @@
+{
+    "name": "webwocketserver",
+    "version": "1.0.0",
+    "description": "WebSocket server project",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "Fernanda Rachel Del Bel Tavares",
+    "license": "ISC",
+    "dependencies": {
+        "@types/express": "^4.16.1",
+        "@types/socket.io": "^2.1.2",
+        "express": "^4.16.4",
+        "socket.io": "^2.2.0"
+    },
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-typescript": "^5.0.1",
+        "typescript": "^3.4.1"
+    }
+}
